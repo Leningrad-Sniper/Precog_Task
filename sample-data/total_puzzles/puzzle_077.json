@@ -1,0 +1,18 @@
+{
+    "problem_id": "077",
+    "initial_string": "y7SSSS7Sy7777y7ySySyyy7S77yyySy7Sy777Sy7yyy7S77ySy",
+    "transitions": [
+        {
+            "src": "777S",
+            "tgt": "w"
+        },
+        {
+            "src": "y",
+            "tgt": "Y3pi"
+        },
+        {
+            "src": "Y3pi7SSSS7SY3pi7777Y3pi7Y3piSY3piSY3piY3piY3pi7S77Y3piY3piY3piSY3pi7SY3piwY3pi7Y3piY3piY3pi7S77Y3piSY3pi",
+            "tgt": ""
+        }
+    ]
+}

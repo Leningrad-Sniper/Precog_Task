@@ -1,0 +1,18 @@
+{
+    "problem_id": "027",
+    "initial_string": "QWWQ2Q2WWWWWWW2QWQQQ2Q22WQ2W22W22QW2222WW2Q2WQ2Q2Q",
+    "transitions": [
+        {
+            "src": "2Q22",
+            "tgt": "B201"
+        },
+        {
+            "src": "2222",
+            "tgt": "l11"
+        },
+        {
+            "src": "QWWQ2Q2WWWWWWW2QWQQQB201WQ2W22W22QWl11WW2Q2WQ2Q2Q",
+            "tgt": ""
+        }
+    ]
+}

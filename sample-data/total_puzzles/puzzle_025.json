@@ -1,0 +1,22 @@
+{
+    "problem_id": "025",
+    "initial_string": "YYssaaYYasasaYasYsYYYYaYaYaYsYsYsaYYssYaYsassaaYYY",
+    "transitions": [
+        {
+            "src": "Yasa",
+            "tgt": "W0gh"
+        },
+        {
+            "src": "sYYY",
+            "tgt": "m6KQ"
+        },
+        {
+            "src": "Ysas",
+            "tgt": "3b"
+        },
+        {
+            "src": "YYssaaYW0ghsaYasYm6KQYaYaYaYsYsYsaYYssYa3bsaaYYY",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "problem_id": "038",
+    "initial_string": "GGRGLLGLRRRLLGGGGRLRGGRLRRGGGRRRLRRLGLGLLGGGGLGLLG",
+    "transitions": [
+        {
+            "src": "GRRR",
+            "tgt": "zvA"
+        },
+        {
+            "src": "RLGL",
+            "tgt": "Ukb6"
+        },
+        {
+            "src": "GLLG",
+            "tgt": "MB0E"
+        },
+        {
+            "src": "GGRMB0ELRRRLLGGGGRLRGGRLRRGGzvALRUkb6MB0EGGGLMB0E",
+            "tgt": ""
+        }
+    ]
+}

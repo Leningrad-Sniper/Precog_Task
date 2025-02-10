@@ -1,0 +1,26 @@
+{
+    "problem_id": "042",
+    "initial_string": "RR54R445455R455R45R5RR4RR544R444R5RR4RRR4555444RR4",
+    "transitions": [
+        {
+            "src": "4RRR",
+            "tgt": "2"
+        },
+        {
+            "src": "R5RR",
+            "tgt": "u"
+        },
+        {
+            "src": "44R4",
+            "tgt": "8hzn"
+        },
+        {
+            "src": "4",
+            "tgt": "gTEm"
+        },
+        {
+            "src": "RR5gTEmRgTEmgTEm5gTEm55RgTEm55RgTEm5ugTEmRR58hzngTEmgTEmu2gTEm555gTEmgTEmgTEmRRgTEm",
+            "tgt": ""
+        }
+    ]
+}

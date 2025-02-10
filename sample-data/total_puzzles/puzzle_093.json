@@ -1,0 +1,26 @@
+{
+    "problem_id": "093",
+    "initial_string": "ata6tttttaat66aaaaa66atta66ta6atttat666tt66t666t66",
+    "transitions": [
+        {
+            "src": "66tt",
+            "tgt": "nlnu"
+        },
+        {
+            "src": "6att",
+            "tgt": "n"
+        },
+        {
+            "src": "66t6",
+            "tgt": "AdiM"
+        },
+        {
+            "src": "t66a",
+            "tgt": "HGG2"
+        },
+        {
+            "src": "ata6tttttaaHGG2aaaa6na66tantat6nlnuAdiMAdiM6",
+            "tgt": ""
+        }
+    ]
+}

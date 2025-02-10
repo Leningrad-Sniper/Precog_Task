@@ -1,0 +1,26 @@
+{
+    "problem_id": "021",
+    "initial_string": "5o555os5s555ssosso5s5oo5so555o5os555so5o5o5s5s55s5",
+    "transitions": [
+        {
+            "src": "os5s",
+            "tgt": "xWW6"
+        },
+        {
+            "src": "so5o",
+            "tgt": "Vr"
+        },
+        {
+            "src": "o5os",
+            "tgt": "h2"
+        },
+        {
+            "src": "s5s5",
+            "tgt": "s"
+        },
+        {
+            "src": "5o555xWW6555ssosso5s5oo5so555h2555Vr5o5s",
+            "tgt": ""
+        }
+    ]
+}

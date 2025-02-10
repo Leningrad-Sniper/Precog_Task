@@ -1,0 +1,22 @@
+{
+    "problem_id": "051",
+    "initial_string": "oo666kk6okoo6ookkoookkoo6ookko6o66kok6oo6kokokkkoo",
+    "transitions": [
+        {
+            "src": "o6o6",
+            "tgt": "CD"
+        },
+        {
+            "src": "oo",
+            "tgt": "Cuvm"
+        },
+        {
+            "src": "okkk",
+            "tgt": "bLt3"
+        },
+        {
+            "src": "Cuvm666kk6okCuvm6CuvmkkCuvmokkCuvm6CuvmkkCD6kok6Cuvm6kokbLt3Cuvm",
+            "tgt": ""
+        }
+    ]
+}

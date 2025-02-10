@@ -1,0 +1,30 @@
+{
+    "problem_id": "071",
+    "initial_string": "BfBffBPfBfPBPBBPPBBPfPBBBPPBBffBPPfBffffffBPPPPPPf",
+    "transitions": [
+        {
+            "src": "BffB",
+            "tgt": "4O"
+        },
+        {
+            "src": "PPfB",
+            "tgt": "6k"
+        },
+        {
+            "src": "BBBP",
+            "tgt": "HbOm"
+        },
+        {
+            "src": "fBPP",
+            "tgt": "onE8"
+        },
+        {
+            "src": "BPBB",
+            "tgt": "l3ZT"
+        },
+        {
+            "src": "Bf4OPfBfPl3ZTPPBBPfPHbOmPB4O6kfffffonE8PPPPf",
+            "tgt": ""
+        }
+    ]
+}

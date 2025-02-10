@@ -1,0 +1,26 @@
+{
+    "problem_id": "149",
+    "initial_string": "LME9eFY5oV",
+    "transitions": [
+        {
+            "src": "kvPu",
+            "tgt": ""
+        },
+        {
+            "src": "lGH",
+            "tgt": "vPu"
+        },
+        {
+            "src": "DFvTQ",
+            "tgt": "klG"
+        },
+        {
+            "src": "LME9e",
+            "tgt": "D"
+        },
+        {
+            "src": "Y5oV",
+            "tgt": "vTQH"
+        }
+    ]
+}

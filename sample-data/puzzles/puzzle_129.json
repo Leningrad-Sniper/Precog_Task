@@ -1,0 +1,22 @@
+{
+    "problem_id": "129",
+    "initial_string": "8nEDmiNJ",
+    "transitions": [
+        {
+            "src": "7Xn",
+            "tgt": ""
+        },
+        {
+            "src": "8b3iNJ",
+            "tgt": "7Xn"
+        },
+        {
+            "src": "nWmiI0",
+            "tgt": "b3"
+        },
+        {
+            "src": "EDm",
+            "tgt": "WmiI0"
+        }
+    ]
+}

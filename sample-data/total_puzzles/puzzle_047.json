@@ -1,0 +1,22 @@
+{
+    "problem_id": "047",
+    "initial_string": "iiSiFSFFFFiiiiiiSSiFFFSiiiSSFFFSiFiSSFiiFSFFiSFiFi",
+    "transitions": [
+        {
+            "src": "FiiF",
+            "tgt": "9l"
+        },
+        {
+            "src": "iFSF",
+            "tgt": "TWe"
+        },
+        {
+            "src": "FiSS",
+            "tgt": "n"
+        },
+        {
+            "src": "iiSTWeFFFiiiiiiSSiFFFSiiiSSFFFSin9lSFFiSFiFi",
+            "tgt": ""
+        }
+    ]
+}

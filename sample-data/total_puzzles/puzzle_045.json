@@ -1,0 +1,26 @@
+{
+    "problem_id": "045",
+    "initial_string": "aJJarJaJaJaaaaJarrrrararaJaaaaaJrJararJraJaraJrrra",
+    "transitions": [
+        {
+            "src": "rrar",
+            "tgt": "eGPg"
+        },
+        {
+            "src": "aJaJ",
+            "tgt": "b"
+        },
+        {
+            "src": "aaJr",
+            "tgt": "R"
+        },
+        {
+            "src": "aJar",
+            "tgt": "ihP"
+        },
+        {
+            "src": "aJJarJbaaaihPreGPgaraJaaaRJararJrihPaJrrra",
+            "tgt": ""
+        }
+    ]
+}

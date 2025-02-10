@@ -1,0 +1,26 @@
+{
+    "problem_id": "124",
+    "initial_string": "XM9tEOW40kkC1CjlcuT3",
+    "transitions": [
+        {
+            "src": "XMDLcgW3",
+            "tgt": ""
+        },
+        {
+            "src": "J40kkCZx",
+            "tgt": "DLc"
+        },
+        {
+            "src": "wlcuT",
+            "tgt": "W"
+        },
+        {
+            "src": "9tEOW",
+            "tgt": "J"
+        },
+        {
+            "src": "1Cj",
+            "tgt": "Zxgw"
+        }
+    ]
+}

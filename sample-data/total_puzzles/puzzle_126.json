@@ -1,0 +1,34 @@
+{
+    "problem_id": "126",
+    "initial_string": "4sCIyE3gUC9KkQHz",
+    "transitions": [
+        {
+            "src": "EZmY8Hz",
+            "tgt": ""
+        },
+        {
+            "src": "lki9a",
+            "tgt": "Z"
+        },
+        {
+            "src": "4BcB",
+            "tgt": "E"
+        },
+        {
+            "src": "0PE3",
+            "tgt": "BcBlk"
+        },
+        {
+            "src": "gUC",
+            "tgt": "i"
+        },
+        {
+            "src": "KkQ",
+            "tgt": "amY8"
+        },
+        {
+            "src": "sCIy",
+            "tgt": "0P"
+        }
+    ]
+}

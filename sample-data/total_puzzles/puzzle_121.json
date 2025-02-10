@@ -1,0 +1,34 @@
+{
+    "problem_id": "121",
+    "initial_string": "lQxwCUL6iLG6Tdw4PCeoX8ij",
+    "transitions": [
+        {
+            "src": "fuX8ij",
+            "tgt": ""
+        },
+        {
+            "src": "lFvGJbg",
+            "tgt": "f"
+        },
+        {
+            "src": "KuC",
+            "tgt": "J"
+        },
+        {
+            "src": "Ayn1PCeo",
+            "tgt": "uCbgu"
+        },
+        {
+            "src": "6Tdw4",
+            "tgt": "KAyn1"
+        },
+        {
+            "src": "QieXiL",
+            "tgt": "Fv"
+        },
+        {
+            "src": "xwCUL6",
+            "tgt": "ieX"
+        }
+    ]
+}

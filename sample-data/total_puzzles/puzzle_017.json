@@ -1,0 +1,22 @@
+{
+    "problem_id": "017",
+    "initial_string": "LLLLLLPPPLDLPPDLDDDLLLDLPDLLDPPLPDDLLDPDPDDLPLDLDD",
+    "transitions": [
+        {
+            "src": "PPPL",
+            "tgt": "IO"
+        },
+        {
+            "src": "LLDP",
+            "tgt": "WLt"
+        },
+        {
+            "src": "DDLP",
+            "tgt": "TMw"
+        },
+        {
+            "src": "LLLLLLIODLPPDLDDDLLLDLPDWLtPLPDDWLtDPTMwLDLDD",
+            "tgt": ""
+        }
+    ]
+}

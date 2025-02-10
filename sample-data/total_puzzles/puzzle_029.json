@@ -1,0 +1,22 @@
+{
+    "problem_id": "029",
+    "initial_string": "oaowwaawaaawwawowoaaaaaaoooaaaowoawaaaaaawwoaowwoo",
+    "transitions": [
+        {
+            "src": "aawa",
+            "tgt": "r"
+        },
+        {
+            "src": "owoa",
+            "tgt": "aI"
+        },
+        {
+            "src": "aaaw",
+            "tgt": "W"
+        },
+        {
+            "src": "oaowwraawwawaIaaaaaoooaaaaIwaaaWwoaowwoo",
+            "tgt": ""
+        }
+    ]
+}

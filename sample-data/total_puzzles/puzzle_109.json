@@ -1,0 +1,22 @@
+{
+    "problem_id": "109",
+    "initial_string": "VTj66Fktluidpaq",
+    "transitions": [
+        {
+            "src": "0X4",
+            "tgt": ""
+        },
+        {
+            "src": "VTj66FKa",
+            "tgt": "0"
+        },
+        {
+            "src": "Fktlu0",
+            "tgt": "FKa"
+        },
+        {
+            "src": "idpaq",
+            "tgt": "0X4"
+        }
+    ]
+}

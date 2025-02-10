@@ -1,0 +1,22 @@
+{
+    "problem_id": "001",
+    "initial_string": "NN1ttN1tNtNNt1N1Ntttt1tN1ttN1NNt11NNNN1N1NtNNNN1t1",
+    "transitions": [
+        {
+            "src": "NN1N",
+            "tgt": "nu85"
+        },
+        {
+            "src": "1Ntt",
+            "tgt": "Xkz"
+        },
+        {
+            "src": "1NNt",
+            "tgt": "JsdS"
+        },
+        {
+            "src": "NN1ttN1tNtNNt1NXkztt1tN1ttNJsdS11NNnu851NtNNNN1t1",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "problem_id": "012",
+    "initial_string": "w3333w33wwwwTwwwwTww3wwwT33wT3Tw33T3wTwTT3wwTT3Tww",
+    "transitions": [
+        {
+            "src": "TT3w",
+            "tgt": "JA"
+        },
+        {
+            "src": "3T3w",
+            "tgt": "r"
+        },
+        {
+            "src": "w333",
+            "tgt": "2Uf"
+        },
+        {
+            "src": "2Uf3w33wwwwTwwwwTww3wwwT33wT3Tw3rTwJAwTT3Tww",
+            "tgt": ""
+        }
+    ]
+}

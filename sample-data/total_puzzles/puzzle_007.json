@@ -1,0 +1,26 @@
+{
+    "problem_id": "007",
+    "initial_string": "kFbbFFbbbkkbFkFbFFkbFFFFbbFkbkFFbkkFbbbbFkkFkkbbbb",
+    "transitions": [
+        {
+            "src": "bFkk",
+            "tgt": "r"
+        },
+        {
+            "src": "bbFF",
+            "tgt": "1vU"
+        },
+        {
+            "src": "Fkbk",
+            "tgt": "X2"
+        },
+        {
+            "src": "FkFb",
+            "tgt": "nw"
+        },
+        {
+            "src": "kF1vUbbbkkbnwFFkbFFFFbbX2FFbkkFbbbrFkkbbbb",
+            "tgt": ""
+        }
+    ]
+}

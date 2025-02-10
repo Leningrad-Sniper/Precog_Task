@@ -1,0 +1,26 @@
+{
+    "problem_id": "135",
+    "initial_string": "4d1UlJVCXa1sKP",
+    "transitions": [
+        {
+            "src": "4dHJVK",
+            "tgt": ""
+        },
+        {
+            "src": "p4P",
+            "tgt": "JVK"
+        },
+        {
+            "src": "1cyK",
+            "tgt": "Hp4"
+        },
+        {
+            "src": "Ul3Xa1s",
+            "tgt": "cy"
+        },
+        {
+            "src": "JVC",
+            "tgt": "3"
+        }
+    ]
+}

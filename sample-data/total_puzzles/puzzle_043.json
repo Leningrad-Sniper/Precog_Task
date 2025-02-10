@@ -1,0 +1,26 @@
+{
+    "problem_id": "043",
+    "initial_string": "4n44n4MMnM4n4MnnMMnnn4M44nM4MMMnMnMM44M4n4MMn44Mn4",
+    "transitions": [
+        {
+            "src": "4MMn",
+            "tgt": "gRsB"
+        },
+        {
+            "src": "n44n",
+            "tgt": "v54"
+        },
+        {
+            "src": "MnMM",
+            "tgt": "aX"
+        },
+        {
+            "src": "4Mnn",
+            "tgt": "Ii"
+        },
+        {
+            "src": "4v54gRsBM4nIiMMnnn4M44nM4MMMnaX44M4ngRsB44Mn4",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "problem_id": "147",
+    "initial_string": "pysCZOvyhDesbocryfSw",
+    "transitions": [
+        {
+            "src": "4ocryfSw",
+            "tgt": ""
+        },
+        {
+            "src": "xmsb",
+            "tgt": "4"
+        },
+        {
+            "src": "pysCZa",
+            "tgt": "x"
+        },
+        {
+            "src": "OvyhDe",
+            "tgt": "am"
+        }
+    ]
+}

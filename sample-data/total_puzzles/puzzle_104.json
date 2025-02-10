@@ -1,0 +1,22 @@
+{
+    "problem_id": "104",
+    "initial_string": "aCz6F8AnxAS9guP",
+    "transitions": [
+        {
+            "src": "aSPs7uP",
+            "tgt": ""
+        },
+        {
+            "src": "Cz67c",
+            "tgt": "SP"
+        },
+        {
+            "src": "Fn9g",
+            "tgt": "7cs7"
+        },
+        {
+            "src": "8AnxAS",
+            "tgt": "n"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "problem_id": "002",
+    "initial_string": "VoqqVVooqqqqqVoVVoqqVooVqVqVVqqoooqqqooVooqoVqqqVq",
+    "transitions": [
+        {
+            "src": "Voqq",
+            "tgt": "N5"
+        },
+        {
+            "src": "qoVq",
+            "tgt": "9i"
+        },
+        {
+            "src": "qVqV",
+            "tgt": "jc"
+        },
+        {
+            "src": "N5VVooqqqqqVoVN5VooVjcVqqoooqqqooVoo9iqqVq",
+            "tgt": ""
+        }
+    ]
+}

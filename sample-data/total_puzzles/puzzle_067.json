@@ -1,0 +1,26 @@
+{
+    "problem_id": "067",
+    "initial_string": "mGmGmGWmmmWmWGGGmGmmmWmmWWWGWGWGWGmmmWmGmWGWWGWmWG",
+    "transitions": [
+        {
+            "src": "WmmW",
+            "tgt": "g"
+        },
+        {
+            "src": "GWGm",
+            "tgt": "EDf"
+        },
+        {
+            "src": "WGGG",
+            "tgt": "pGuA"
+        },
+        {
+            "src": "WmGm",
+            "tgt": "XP"
+        },
+        {
+            "src": "mGmGmGWmmmWmpGuAmGmmmgWWGWGWEDfmmXPWGWWGWmWG",
+            "tgt": ""
+        }
+    ]
+}

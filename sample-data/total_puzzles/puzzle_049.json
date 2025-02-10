@@ -1,0 +1,22 @@
+{
+    "problem_id": "049",
+    "initial_string": "111Tjj1jjT11TTT1TjTj1TTT11j1T11TT1jj111TjjTTjjjT11",
+    "transitions": [
+        {
+            "src": "11",
+            "tgt": "Z"
+        },
+        {
+            "src": "TjjT",
+            "tgt": "8EZ"
+        },
+        {
+            "src": "TTT1",
+            "tgt": "S"
+        },
+        {
+            "src": "Z1Tjj1jjTZSTjTj1TTTZj1TZTT1jjZ18EZTjjjTZ",
+            "tgt": ""
+        }
+    ]
+}

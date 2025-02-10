@@ -1,0 +1,18 @@
+{
+    "problem_id": "034",
+    "initial_string": "i33iii53i5535i3ii5i3555555353i3i3i335i333533ii5533",
+    "transitions": [
+        {
+            "src": "3335",
+            "tgt": "ga"
+        },
+        {
+            "src": "i53i",
+            "tgt": "lFx"
+        },
+        {
+            "src": "i33iilFx5535i3ii5i3555555353i3i3i335iga33ii5533",
+            "tgt": ""
+        }
+    ]
+}

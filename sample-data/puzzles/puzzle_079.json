@@ -1,0 +1,22 @@
+{
+    "problem_id": "079",
+    "initial_string": "BtBtBtBUtUUBUUUBtBtBtUBBBBBtUBtUBUBUBBtttUtUtBBttU",
+    "transitions": [
+        {
+            "src": "BBtt",
+            "tgt": "dup"
+        },
+        {
+            "src": "BUBU",
+            "tgt": "sm"
+        },
+        {
+            "src": "UBUU",
+            "tgt": "u3"
+        },
+        {
+            "src": "BtBtBtBUtUu3UBtBtBtUBBBBBtUBtUsmduptUtUtdupU",
+            "tgt": ""
+        }
+    ]
+}

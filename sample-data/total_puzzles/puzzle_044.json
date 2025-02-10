@@ -1,0 +1,22 @@
+{
+    "problem_id": "044",
+    "initial_string": "GLGeLLeeLGGeLGGGeLGeGGGLLLeGeGLLLGLeGGeeeGGeGeeLLL",
+    "transitions": [
+        {
+            "src": "LLee",
+            "tgt": "MT"
+        },
+        {
+            "src": "eeeG",
+            "tgt": "z"
+        },
+        {
+            "src": "GGGe",
+            "tgt": "bV4"
+        },
+        {
+            "src": "GLGeMTLGGeLbV4LGeGGGLLLeGeGLLLGLeGGzGeGeeLLL",
+            "tgt": ""
+        }
+    ]
+}

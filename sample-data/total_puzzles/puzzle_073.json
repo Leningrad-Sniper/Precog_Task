@@ -1,0 +1,22 @@
+{
+    "problem_id": "073",
+    "initial_string": "lOONllNNOlNlOlNONNlNlNNNONOOllONllOOlNlOOllOlOOlNN",
+    "transitions": [
+        {
+            "src": "OllO",
+            "tgt": "ad"
+        },
+        {
+            "src": "lNN",
+            "tgt": "7"
+        },
+        {
+            "src": "lNlO",
+            "tgt": "i2ZS"
+        },
+        {
+            "src": "lOONl7Oi2ZSlNONNlN7NONOadNllOOi2ZSadlOO7",
+            "tgt": ""
+        }
+    ]
+}

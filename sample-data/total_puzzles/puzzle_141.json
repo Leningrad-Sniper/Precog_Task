@@ -1,0 +1,26 @@
+{
+    "problem_id": "141",
+    "initial_string": "CUa7SjWSDF",
+    "transitions": [
+        {
+            "src": "KAjgp0",
+            "tgt": ""
+        },
+        {
+            "src": "1a0",
+            "tgt": "KAjgp"
+        },
+        {
+            "src": "mah",
+            "tgt": "1a0"
+        },
+        {
+            "src": "3DF",
+            "tgt": "h0"
+        },
+        {
+            "src": "CUa7SjWS",
+            "tgt": "ma3"
+        }
+    ]
+}

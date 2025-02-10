@@ -1,0 +1,18 @@
+{
+    "problem_id": "008",
+    "initial_string": "DMmMmDMmDMDDMDmMDmDmMMDMmmmMmmDmmMmDmDmmDDDDmDmMDD",
+    "transitions": [
+        {
+            "src": "mmmM",
+            "tgt": "rAu"
+        },
+        {
+            "src": "DmMD",
+            "tgt": "5XNh"
+        },
+        {
+            "src": "DMmMmDMmDMDDM5XNhmDmMMDMrAummDmmMmDmDmmDDDDm5XNhD",
+            "tgt": ""
+        }
+    ]
+}

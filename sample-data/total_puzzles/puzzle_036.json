@@ -1,0 +1,18 @@
+{
+    "problem_id": "036",
+    "initial_string": "GseGeGGsesGGGeeessGGeGGeGseeeeseGGseGGsssssesGssse",
+    "transitions": [
+        {
+            "src": "sse",
+            "tgt": "9VWA"
+        },
+        {
+            "src": "se",
+            "tgt": "Wtq"
+        },
+        {
+            "src": "GWtqGeGGWtqsGGGeeessGGeGGeGWtqeeeWtqGGWtqGGsss9VWAsGs9VWA",
+            "tgt": ""
+        }
+    ]
+}

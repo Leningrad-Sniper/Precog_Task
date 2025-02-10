@@ -1,0 +1,30 @@
+{
+    "problem_id": "048",
+    "initial_string": "5M5O5OOMO55MMO55O5MMOOM555O5OOMM55MMMMOM5MM5MMMMMM",
+    "transitions": [
+        {
+            "src": "OOM5",
+            "tgt": "EjmP"
+        },
+        {
+            "src": "O5MM",
+            "tgt": "Qv"
+        },
+        {
+            "src": "5MMO",
+            "tgt": "l"
+        },
+        {
+            "src": "55MM",
+            "tgt": "O"
+        },
+        {
+            "src": "MM5M",
+            "tgt": "e2"
+        },
+        {
+            "src": "5M5O5OOMO5l55QvEjmP55O5OOMMOMMOM5e2MMMMM",
+            "tgt": ""
+        }
+    ]
+}

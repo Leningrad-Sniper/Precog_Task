@@ -1,0 +1,34 @@
+{
+    "problem_id": "136",
+    "initial_string": "78agbFX87QLJbfoUopVO",
+    "transitions": [
+        {
+            "src": "77Q5GY",
+            "tgt": ""
+        },
+        {
+            "src": "7QL8U",
+            "tgt": "5"
+        },
+        {
+            "src": "GRmo",
+            "tgt": "8"
+        },
+        {
+            "src": "8auazFX8",
+            "tgt": "7Q"
+        },
+        {
+            "src": "gbF",
+            "tgt": "uazF"
+        },
+        {
+            "src": "Jbf",
+            "tgt": "GRm"
+        },
+        {
+            "src": "opVO",
+            "tgt": "GY"
+        }
+    ]
+}

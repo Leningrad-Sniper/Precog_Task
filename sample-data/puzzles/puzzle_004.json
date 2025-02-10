@@ -1,0 +1,26 @@
+{
+    "problem_id": "004",
+    "initial_string": "iiiZEEZiZZEiEZZiZZEZZZEZZEiEiiZEEiEZiZiZiiEiEEEEEi",
+    "transitions": [
+        {
+            "src": "ZiiE",
+            "tgt": "m2A"
+        },
+        {
+            "src": "ZEiE",
+            "tgt": "8xK"
+        },
+        {
+            "src": "iiiZ",
+            "tgt": "Wunf"
+        },
+        {
+            "src": "iZZE",
+            "tgt": "optH"
+        },
+        {
+            "src": "WunfEEZiZ8xKZZoptHZZZEZ8xKiiZEEiEZiZim2AiEEEEEi",
+            "tgt": ""
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "problem_id": "118",
+    "initial_string": "9ptlwVWC8O3b6cbVm",
+    "transitions": [
+        {
+            "src": "9ptHm",
+            "tgt": ""
+        },
+        {
+            "src": "L0ro",
+            "tgt": "H"
+        },
+        {
+            "src": "lwip25uV",
+            "tgt": "L0ro"
+        },
+        {
+            "src": "VWnqsu",
+            "tgt": "ip25"
+        },
+        {
+            "src": "C8O3b6cb",
+            "tgt": "nqsuu"
+        }
+    ]
+}

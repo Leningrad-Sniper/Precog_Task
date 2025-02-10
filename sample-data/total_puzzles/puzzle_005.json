@@ -1,0 +1,30 @@
+{
+    "problem_id": "005",
+    "initial_string": "VVVVVrVreVerrreeeeVeVVVVrerrreeeVVVVerererrrrVVVrr",
+    "transitions": [
+        {
+            "src": "reee",
+            "tgt": "JeKY"
+        },
+        {
+            "src": "VVrr",
+            "tgt": "jR0z"
+        },
+        {
+            "src": "rerr",
+            "tgt": "br"
+        },
+        {
+            "src": "VVVr",
+            "tgt": "C"
+        },
+        {
+            "src": "Vere",
+            "tgt": "CgV"
+        },
+        {
+            "src": "VVCVreVerrJeKYeVeVVVVbrJeKYVVVCgVbrrrVjR0z",
+            "tgt": ""
+        }
+    ]
+}
